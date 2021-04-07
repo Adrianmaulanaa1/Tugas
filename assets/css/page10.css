@@ -1,0 +1,199 @@
+body{
+  margin: 0x;
+  background-color: #ebe9e9
+}
+
+a.navbar-brand.navbar-link{
+  margin-top:7px;
+}
+
+ul.nav.navbar-nav.navbar-right{
+  margin-top:12px;
+  margin-right:18px;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover{
+  color:#363535;
+  background-color:#e7e7e7;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover{
+  color:#dad9d9;
+  background-color:transparent;
+}
+
+.navbar-default .navbar-nav > li > a{
+  color:#b8b6b6;
+}
+
+.navbar-brand, .navbar-nav > li > a{
+  text-shadow:0 1px 0 rgba(255,255,255,.25);
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .open > a{
+  background-repeat:repeat-x;
+  background:rgba(255, 255, 255, 0.3);
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+  background-color:#ddd;
+  background:white;
+}
+
+button.navbar-toggle.collapsed{
+  margin-top:16px;
+  margin-right:52px;
+}
+
+nav.navbar.navbar-default{
+  height: 100px;
+  background: none;
+  box-shadow: none;
+  border: none;
+  padding-top: 25px;
+  padding-left: 30px;
+  padding-right: 75px;
+}
+
+.navbar-header a.navbar-brand img{
+  height: 30px;
+  margin-top: -4px;
+}
+
+.navbar-nav > li > a{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+i.glyphicon.glyphicon-search{
+  font-size: 20px;
+  color: rgb(184,182,182);
+}
+
+#background{
+  margin-top: -120px;
+  background: url(../../assets/img/jumbroton-10.png) no-repeat;
+  background-size: cover;
+  padding-top: 111px;
+  height: 638px;
+  max-height: 1112px;
+}
+
+#background .jumbotron{
+ background: none;
+ margin-left: 137px;
+ max-width: 1000px;
+ margin-top: 22px;
+}
+
+#background .jumbotron {
+  text-align: left;
+  color: white;
+  margin-bottom: 170px;
+  margin-top: 280px;
+  margin-left: 360px;
+}
+
+#background .jumbotron h1 {
+  font-family: akrobat extrabold;
+}
+
+#background .jumbotron h2 {
+  font-family: akrobat semibold;
+}
+
+#marquee h1 {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 8px;
+    overflow: hidden;
+    background-color: #333333;
+    font-family: "akrobat";
+}
+
+#home {
+  text-align: center;
+}
+
+#home .container h1{
+  margin: 36px;
+}
+
+#home .container .row{
+  margin: -3px;
+}
+
+#home .isi .container.atas{
+  background-color: #f9f8f8;
+  margin-top: -85px;
+  padding-bottom: 37px;
+}
+
+.glyphicon{
+  position: relative;
+  font-size: 42px;
+  color: #27475e;
+}
+
+.container.bawah {
+  text-align: center;
+}
+
+#profil{
+  margin-top: 31px;
+  background-color: #f9f8f8;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#profil img {
+  width: 100%;
+}
+
+#news{
+  margin-top: 31px;
+  background-color: #f9f8f8;
+  padding-top: 43px;
+  padding-bottom: 25px;
+}
+
+
+#galeri .container h1{
+  text-align: center;
+  font-family: akrobat;
+  margin-bottom: 38px;
+}
+
+#galeri .container .row #dua.col-lg-6.col-md-6.col-sm-6.col-xs-6{
+  padding-top: 31px;
+}
+
+#pagination .pagination{
+  padding-left: 480px;
+}
+
+/* about */
+
+#about{
+  background-color:  #1a508b;
+  margin-top: 79px;
+  color: white;
+}
+
+#footer{
+  color: white;
+  background-color: #0f1517;
+}
+
+.media-sosial img {
+    width: 50px;
+    margin: 0 12px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+
+#footer{
+  color: white;
+  background-color: #0f1517;
+}
